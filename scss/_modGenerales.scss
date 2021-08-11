@@ -1,0 +1,28 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    background-image: radial-gradient(circle, #e0ecde, #dceada, #d9e8d6, #d5e5d2, #d2e3ce, #c9dec7, #c0d9c1, #b6d4bb, #a4ccb2, #91c3ab, #7dbba5, #68b2a0);
+    -webkit-text-stroke-width: 1px;    
+}
+
+nav { 
+    background-image: linear-gradient(to right bottom, #6cc888, #66c391, #64be98, #64b89d, #68b2a0);
+}
+
+#ajustaImagenContacto{
+    max-width: 40%;
+}
+
+.ajustaCajaTexto {
+    padding: 0.01fr 0.01fr 0.01fr 0.01fr;
+}
+
+.ajustaCaja{
+    max-width: 50%;
+    align-items: center;
+    justify-content: center;
+}
